@@ -16,11 +16,11 @@
 
   - [x] [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
-  - [ ] [debugging html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+  - [x] [debugging html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
 - ### [Multimedia and Embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
 
-  - [ ] [images in html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+  - [x] [images in html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
   - [ ] [video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
@@ -82,5 +82,9 @@
   - [ ] [mobile accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Mobile)
 
 - ### [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today) (Online course by egghead)
+
+- ### Extras
+  
+  - [ ] [The Trials and Tribulations of the Title Attribute](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute) (by Scott O’Hara)
 
 ## TODO: [W3 HTML spec](https://html.spec.whatwg.org/multipage/#toc-introduction)
