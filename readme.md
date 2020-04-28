@@ -22,7 +22,7 @@
 
   - [x] [images in html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
-  - [ ] [video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+  - [x] [video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
   - [ ] [from `<object>` to `<iframe>` — other embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
@@ -31,6 +31,7 @@
   - [ ] [responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
   - [ ] [add a hitmap on top of an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Add_a_hit_map_on_top_of_an_image)
+  
 
 * ### [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
 
@@ -88,3 +89,7 @@
   - [ ] [The Trials and Tribulations of the Title Attribute](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute) (by Scott O’Hara)
 
 ## TODO: [W3 HTML spec](https://html.spec.whatwg.org/multipage/#toc-introduction)
+
+## TODO [Web API reference](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
+
+## TODO [Web media technologies](https://developer.mozilla.org/en-US/docs/Web/Media)
