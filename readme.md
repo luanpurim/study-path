@@ -24,7 +24,7 @@
 
   - [x] [video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
-  - [ ] [from `<object>` to `<iframe>` — other embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
+  - [x] [from `<object>` to `<iframe>` — other embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
   - [ ] [adding vector graphics to the web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 
@@ -93,3 +93,5 @@
 ## TODO [Web API reference](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 
 ## TODO [Web media technologies](https://developer.mozilla.org/en-US/docs/Web/Media)
+
+## TODO [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
