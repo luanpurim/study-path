@@ -30,29 +30,31 @@
 
   - [x] [responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
-  - [ ] [add a hitmap on top of an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Add_a_hit_map_on_top_of_an_image)
+  - [x] [add a hitmap on top of an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Add_a_hit_map_on_top_of_an_image)
   
 
 * ### [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
 
-  - [ ] [html table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
-  - [ ] [html table advanced features and accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
+  - [x] [html table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+  - [x] [html table advanced features and accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
 
 * ### [Web forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 
-  - [ ] [your first form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+  - [x] [your first form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
 
-  - [ ] [how to structure a web form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+  - [x] [how to structure a web form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
 
-  - [ ] [basic native form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls)
+  - [x] [basic native form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls)
 
-  - [ ] [the html5 input types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
+  - [x] [the html5 input types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
 
-  - [ ] [other form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Other_form_controls)
+  - [x] [other form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Other_form_controls)
 
-  - [ ] [styling web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms)
+  - [x] [styling web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms)
 
-  - [ ] [advanced form styling](https://developer.mozilla.org/en-US/docs/Learn/Forms/Advanced_form_styling)
+  - [x] [advanced form styling](https://developer.mozilla.org/en-US/docs/Learn/Forms/Advanced_form_styling)
+  
+    - [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
 
   - [ ] [ui pseudo-classes](https://developer.mozilla.org/en-US/docs/Learn/Forms/UI_pseudo-classes)
 
