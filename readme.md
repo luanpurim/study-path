@@ -56,9 +56,9 @@
   
     - [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
 
-  - [ ] [ui pseudo-classes](https://developer.mozilla.org/en-US/docs/Learn/Forms/UI_pseudo-classes)
+  - [x] [ui pseudo-classes](https://developer.mozilla.org/en-US/docs/Learn/Forms/UI_pseudo-classes)
 
-  - [ ] [client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+  - [x] [client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 
   - [ ] [sending form data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
 
