@@ -1,4 +1,4 @@
-# HTML Learning Path
+# Web Technology Learning Path
 
 ## Basic
 
@@ -31,7 +31,6 @@
   - [x] [responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
   - [x] [add a hitmap on top of an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Add_a_hit_map_on_top_of_an_image)
-  
 
 * ### [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
 
@@ -53,7 +52,7 @@
   - [x] [styling web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms)
 
   - [x] [advanced form styling](https://developer.mozilla.org/en-US/docs/Learn/Forms/Advanced_form_styling)
-  
+
     - [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
 
   - [x] [ui pseudo-classes](https://developer.mozilla.org/en-US/docs/Learn/Forms/UI_pseudo-classes)
@@ -87,7 +86,7 @@
 - ### [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today) (Online course by egghead)
 
 - ### Extras
-  
+
   - [ ] [The Trials and Tribulations of the Title Attribute](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute) (by Scott O’Hara)
 
 ## TODO: [WHATWG DOM spec](https://dom.spec.whatwg.org/)
