@@ -60,13 +60,13 @@
 
   - [x] [client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 
-  - [ ] [sending form data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
+  - [x] [sending form data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
 
-  - [ ] [how to build custom form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_build_custom_form_controls)
+  - [x] [how to build custom form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_build_custom_form_controls)
 
-  - [ ] [sending forms through javascript](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript)
+  - [x] [sending forms through javascript](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript)
 
-  - [ ] [css property compatibility table for form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls)
+  - [x] [css property compatibility table for form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls)
 
 ## Accessibility
 
@@ -91,6 +91,8 @@
   - [ ] [The Trials and Tribulations of the Title Attribute](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute) (by Scott O’Hara)
 
 ## TODO: [W3 HTML spec](https://html.spec.whatwg.org/multipage/#toc-introduction)
+
+## TODO: [WHATWG HTML spec](https://html.spec.whatwg.org/multipage/)
 
 ## TODO [Web API reference](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 
