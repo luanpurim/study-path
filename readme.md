@@ -90,7 +90,7 @@
   
   - [ ] [The Trials and Tribulations of the Title Attribute](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute) (by Scott O’Hara)
 
-## TODO: [W3 HTML spec](https://html.spec.whatwg.org/multipage/#toc-introduction)
+## TODO: [WHATWG DOM spec](https://dom.spec.whatwg.org/)
 
 ## TODO: [WHATWG HTML spec](https://html.spec.whatwg.org/multipage/)
 
