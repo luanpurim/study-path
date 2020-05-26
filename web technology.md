@@ -72,23 +72,23 @@
 
 - [ ] [Introduction](https://html.spec.whatwg.org/multipage/introduction.html#introduction)
 
-  - [ ] [1.1 Where does this specification fit?](https://html.spec.whatwg.org/multipage/introduction.html#abstract)
+  - [x] [1.1 Where does this specification fit?](https://html.spec.whatwg.org/multipage/introduction.html#abstract)
   
-  - [ ] [1.2 Is this HTML5?](https://html.spec.whatwg.org/multipage/introduction.html#is-this-html5?)
+  - [x] [1.2 Is this HTML5?](https://html.spec.whatwg.org/multipage/introduction.html#is-this-html5?)
   
-  - [ ] [1.3 Background](https://html.spec.whatwg.org/multipage/introduction.html#background)
+  - [x] [1.3 Background](https://html.spec.whatwg.org/multipage/introduction.html#background)
   
-  - [ ] [1.4 Audience](https://html.spec.whatwg.org/multipage/introduction.html#audience)
+  - [x] [1.4 Audience](https://html.spec.whatwg.org/multipage/introduction.html#audience)
   
-  - [ ] [1.5 Scope](https://html.spec.whatwg.org/multipage/introduction.html#scope)
+  - [x] [1.5 Scope](https://html.spec.whatwg.org/multipage/introduction.html#scope)
   
-  - [ ] [1.6 History](https://html.spec.whatwg.org/multipage/introduction.html#history-2)
+  - [x] [1.6 History](https://html.spec.whatwg.org/multipage/introduction.html#history-2)
   
-  - [ ] [1.7 Design notes](https://html.spec.whatwg.org/multipage/introduction.html#design-notes)
+  - [x] [1.7 Design notes](https://html.spec.whatwg.org/multipage/introduction.html#design-notes)
   
-  - [ ] [1.8 HTML vs XML syntax](https://html.spec.whatwg.org/multipage/introduction.html#html-vs-xhtml)
+  - [x] [1.8 HTML vs XML syntax](https://html.spec.whatwg.org/multipage/introduction.html#html-vs-xhtml)
   
-  - [ ] [1.9 Structure of this specification](https://html.spec.whatwg.org/multipage/introduction.html#structure-of-this-specification)
+  - [x] [1.9 Structure of this specification](https://html.spec.whatwg.org/multipage/introduction.html#structure-of-this-specification)
   
   - [ ] [1.10 A quick introduction to HTML](https://html.spec.whatwg.org/multipage/introduction.html#a-quick-introduction-to-html)
   
