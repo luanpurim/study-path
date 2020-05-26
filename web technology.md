@@ -66,6 +66,35 @@
   - [x] [sending forms through javascript](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript)
 
   - [x] [css property compatibility table for form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls)
+  
+  
+## [WHATWG HTML spec](https://html.spec.whatwg.org/multipage/)
+
+- [ ] [Introduction](https://html.spec.whatwg.org/multipage/introduction.html#introduction)
+
+  - [ ] [1.1 Where does this specification fit?](https://html.spec.whatwg.org/multipage/introduction.html#abstract)
+  
+  - [ ] [1.2 Is this HTML5?](https://html.spec.whatwg.org/multipage/introduction.html#is-this-html5?)
+  
+  - [ ] [1.3 Background](https://html.spec.whatwg.org/multipage/introduction.html#background)
+  
+  - [ ] [1.4 Audience](https://html.spec.whatwg.org/multipage/introduction.html#audience)
+  
+  - [ ] [1.5 Scope](https://html.spec.whatwg.org/multipage/introduction.html#scope)
+  
+  - [ ] [1.6 History](https://html.spec.whatwg.org/multipage/introduction.html#history-2)
+  
+  - [ ] [1.7 Design notes](https://html.spec.whatwg.org/multipage/introduction.html#design-notes)
+  
+  - [ ] [1.8 HTML vs XML syntax](https://html.spec.whatwg.org/multipage/introduction.html#html-vs-xhtml)
+  
+  - [ ] [1.9 Structure of this specification](https://html.spec.whatwg.org/multipage/introduction.html#structure-of-this-specification)
+  
+  - [ ] [1.10 A quick introduction to HTML](https://html.spec.whatwg.org/multipage/introduction.html#a-quick-introduction-to-html)
+  
+  - [ ] [1.11 Conformance requirements for authors](https://html.spec.whatwg.org/multipage/introduction.html#conformance-requirements-for-authors)
+  
+  - [ ] [1.12 Suggested reading](https://html.spec.whatwg.org/multipage/introduction.html#suggested-reading)
 
 ## Accessibility
 
@@ -90,8 +119,6 @@
   - [ ] [The Trials and Tribulations of the Title Attribute](https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute) (by Scott O’Hara)
 
 ## TODO: [WHATWG DOM spec](https://dom.spec.whatwg.org/)
-
-## TODO: [WHATWG HTML spec](https://html.spec.whatwg.org/multipage/)
 
 ## TODO [Web API reference](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 
