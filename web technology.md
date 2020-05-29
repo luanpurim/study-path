@@ -70,7 +70,7 @@
   
 ## [WHATWG HTML spec](https://html.spec.whatwg.org/multipage/)
 
-- [ ] [Introduction](https://html.spec.whatwg.org/multipage/introduction.html#introduction)
+- [x] [Introduction](https://html.spec.whatwg.org/multipage/introduction.html#introduction)
 
   - [x] [1.1 Where does this specification fit?](https://html.spec.whatwg.org/multipage/introduction.html#abstract)
   
@@ -90,11 +90,41 @@
   
   - [x] [1.9 Structure of this specification](https://html.spec.whatwg.org/multipage/introduction.html#structure-of-this-specification)
   
-  - [ ] [1.10 A quick introduction to HTML](https://html.spec.whatwg.org/multipage/introduction.html#a-quick-introduction-to-html)
+  - [x] [1.10 A quick introduction to HTML](https://html.spec.whatwg.org/multipage/introduction.html#a-quick-introduction-to-html)
   
-  - [ ] [1.11 Conformance requirements for authors](https://html.spec.whatwg.org/multipage/introduction.html#conformance-requirements-for-authors)
+  - [x] [1.11 Conformance requirements for authors](https://html.spec.whatwg.org/multipage/introduction.html#conformance-requirements-for-authors)
   
-  - [ ] [1.12 Suggested reading](https://html.spec.whatwg.org/multipage/introduction.html#suggested-reading)
+  - [x] [1.12 Suggested reading](https://html.spec.whatwg.org/multipage/introduction.html#suggested-reading)
+
+- [ ] [2 Common infrastructure](https://html.spec.whatwg.org/multipage/infrastructure.html#infrastructure)
+ 
+  - [ ] [2.1 Terminology](https://html.spec.whatwg.org/multipage/infrastructure.html#terminology)
+ 
+    - [ ] [2.1.1 Parallelism](https://html.spec.whatwg.org/multipage/infrastructure.html#parallelism)
+ 
+    - [ ] [2.1.2 Resources](https://html.spec.whatwg.org/multipage/infrastructure.html#resources)
+ 
+    - [ ] [2.1.3 XML compatibility](https://html.spec.whatwg.org/multipage/infrastructure.html#xml)
+ 
+    - [ ] [2.1.4 DOM trees](https://html.spec.whatwg.org/multipage/infrastructure.html#dom-trees)
+ 
+    - [ ] [2.1.5 Scripting](https://html.spec.whatwg.org/multipage/infrastructure.html#scripting-2)
+ 
+    - [ ] [2.1.6 Plugins](https://html.spec.whatwg.org/multipage/infrastructure.html#plugins)
+ 
+    - [ ] [2.1.7 Character encodings](https://html.spec.whatwg.org/multipage/infrastructure.html#encoding-terminology)
+ 
+    - [ ] [2.1.8 Conformance classes](https://html.spec.whatwg.org/multipage/infrastructure.html#conformance-classes)
+ 
+    - [ ] [2.1.9 Dependencies](https://html.spec.whatwg.org/multipage/infrastructure.html#dependencies)
+ 
+    - [ ] [2.1.10 Extensibility](https://html.spec.whatwg.org/multipage/infrastructure.html#extensibility-2)
+ 
+    - [ ] [2.1.11 Interactions with XPath and XSLT](https://html.spec.whatwg.org/multipage/infrastructure.html#interactions-with-xpath-and-xslt)
+ 
+ - [ ] [2.2 String comparison](https://html.spec.whatwg.org/multipage/infrastructure.html#case-sensitivity-and-string-comparison)
+ 
+ - [ ] [2.3 Policy-controlled features](https://html.spec.whatwg.org/multipage/infrastructure.html#policy-controlled-features)
 
 ## Accessibility
 
